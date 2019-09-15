@@ -1,0 +1,13 @@
+*.class
+*.jar
+*.settings
+*.project
+*.classpath
+target/
+.idea
+test/
+*.iml
+
+#本项目
+mail/
+test.java
