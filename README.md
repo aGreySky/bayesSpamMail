@@ -7,7 +7,7 @@
 [probability-Bayes](probability-Bayes.jpg)、[probability-JointProbability](probability-JointProbability.jpg)为两种方法对应的概率分布图；  
 [ROC-Bayes](ROC-Bayes.jpg)、[ROC-JointProbability](ROC-JointProbability.jpg)分别是两种方法对应的ROC曲线图。  
 两种方法都能正确进行分类，但贝叶斯法结果较为准确。 
-###评价指标
+### 评价指标
 
 **贝叶斯法**
 
