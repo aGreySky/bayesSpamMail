@@ -1,5 +1,5 @@
-#基于贝叶斯算法的垃圾邮件检测Java实现
-###简介
+# 基于贝叶斯算法的垃圾邮件检测Java实现
+### 简介
 这是一个垃圾邮件检测项目  
 以下实现了两种分类算法  
 [SpamMailDetectionBayes](src/main/java/SpamMailDetectionBayes.java)为使用贝叶斯公式的算法实现；
@@ -50,7 +50,7 @@
 召回率（recall）= 灵敏度（sensitive）= TP/(TP+FN) = 0.97
 综合分类率（F1）= 2 * precision * recall / (precision + recall) = 0.97
 ```
-###参考：
+### 参考：
 邮件数据集：https://plg.uwaterloo.ca/~gvcormac/treccorpus06/about.html  
 分词：https://github.com/huaban/jieba-analysis/tree/master/src/main/java/com/huaban/analysis/jieba  
 Java图表：http://www.jfree.org/jfreechart/api/javadoc/index.html  
